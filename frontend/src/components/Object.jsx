@@ -5,8 +5,6 @@ import '../styling/Object.css'
 const Object = ({ object, isActive, onClick }) => {
     const [playSerah] = useSound(object.serahAudio, {volume: 0.5})
     const [playMom] = useSound(object.momAudio, {volume: 0.5})
-    // const [random, setRandom] = useState(Math.random())
-    // const [audio, setAudio] = useState(null)
     const [transcript, setTranscript] = useState(null)
 
     useEffect(() => {

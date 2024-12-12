@@ -55,7 +55,7 @@ const sample = [
     momAudio: mommold,
     serahT: "In third grade, my mom made a bunch of soaps for me to share with my friends. Eleven years later, we still talk about them.",
     momT: "For Christmas time, I used this mold to make pretty soaps for Serah's school teachers and friends.",
-    link1: 'https://www.amazon.com/Amyandone-Mini-Christmas-Silicone-Molds/dp/B0DFCYTRJ5/ref=sr_1_2?crid=1RZLDBY8G4AAL&dib=eyJ2IjoiMSJ9.nMyX2DOsdRuCCXm73L-sP8-jfrMpX7O8xzK9XiZolGaEJvehnCrgRIZ5vsqgXh7oe6qb0psosLtNsar6rRYEmp07TZBk90zjLgJKcu1y8TmegMtNamZAs9FExXPSeU7tsCEtfVdPvXFFeYV5XpSALFPeIxdMa1OOoDXjJBB3C87_s8mIhoBQHhlnwXp1uSl-SKLn5PmBV7hUqrvshIVgWPhkQ_q7g61NSVQeAnlHEySxPIh_gim1QY-3B2fLi1vmwXgwR_Hr5awkA8IvPA3lctpn-lfKaPKj2CEN7ChnOA0.-Bvzl9rpiSihpQPK0Y6hZdByoJXze-XAdzMqFkmq-lg&dib_tag=se&keywords=amyandone%2Bsilicone%2Bmold&qid=1733999705&sprefix=amyandone%2Caps%2C86&sr=8-2&th=1',
+    link1: 'https://a.co/d/91vGTzD',
     link2: 'https://www.newtopsilicone.com/advancing-sustainability-volatile-management-in-silicone-manufacturing/',
   },
   {
