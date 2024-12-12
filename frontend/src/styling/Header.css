@@ -1,0 +1,31 @@
+.header {
+    text-align: center;
+    color: #303956;
+    font-family: 'Fraunces', serif;
+    font-weight: 300;
+    font-style: italic;
+    width: 100%;
+    height: 100px;
+    margin-top: 40px;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    font-weight: 300;
+}
+
+.header-link {
+    text-decoration: none;
+}
+
+.header-text {
+    padding: 12px;
+    transition: background-color 0.5s ease;
+}
+
+.header-text:hover {
+    background-color: #e6e5df;
+}

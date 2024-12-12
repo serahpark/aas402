@@ -1,0 +1,45 @@
+.new-card {
+    flex-shrink: 0;
+    scroll-snap-align: center;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.new-text {
+    width: 300px;
+    height: 300px;
+    transition: filter 0.5s ease;
+    background-color: #e6e5df;
+    color: #535250;
+    font-size: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.new-text:hover {
+    filter: brightness(60%)
+}
+
+h2 {
+    font-family: 'Fraunces', serif;
+    font-weight: 300;
+}
+
+.submit-form {
+    font-family: "Fraunces";
+    font-weight: 300;
+    width: 400px;
+    padding: 12px;
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }

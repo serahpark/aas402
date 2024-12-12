@@ -1,0 +1,10 @@
+.gallery-container {
+    display: flex;
+    flex-direction: row;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    flex: 1 1 auto;
+    align-items: center;
+    gap: 80px;
+    margin: 50px;
+}
