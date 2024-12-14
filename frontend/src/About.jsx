@@ -15,6 +15,8 @@ const About = () => {
                     relationship. <i>Particle Horizon</i> also aims to bring attention to relationships to all of the other people whose labor facilitated the mother-child relation.
                     As a digital archive, <i>Particle Horizon</i> sustains the infinite layers of intimacies contained within ordinary objects. Through recognizing and making visible/
                     audible these disappeared relationships, I hope to cultivate a perspective to the material world that considers the history and traces of an object.
+                    <br />
+                    <a href='https://github.com/serahpark/particle-horizon' target="_blank">View the code here!</a>
                 </div>
                 <div className='image'>
                     <a href='https://walkerart.org/collections/artworks/i-m-u-u-r-2' target="_blank"><img src={imuur2} href='' /></a>

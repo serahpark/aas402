@@ -32,9 +32,9 @@ const Object = ({ object, isActive, onClick }) => {
                     <p>{transcript}</p>
                     <br />
                     <p className='text-header'>Links</p>
-                    <a href={object.link1}>{object.link1}</a>
+                    <a href={object.link1} target="_blank">{object.link1}</a>
                     <br />
-                    <a href={object.link2}>{object.link2}</a>
+                    <a href={object.link2} target='_blank'>{object.link2}</a>
                     </div>
             )}
         </div>
